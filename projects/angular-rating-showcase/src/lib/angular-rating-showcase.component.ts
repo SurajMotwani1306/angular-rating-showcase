@@ -3,7 +3,7 @@ import { Component, Input } from '@angular/core';
 @Component({
   selector: 'lib-angular-rating-showcase',
   templateUrl: './angular-rating-showcase.component.html',
-  styleUrl: './angular-rating-showcase.component/css'
+  styleUrl: './angular-rating-showcase.component.css'
 })
 export class AngularRatingShowcaseComponent {
 
