@@ -1,0 +1,34 @@
+{
+  "name": "angular-rating-showcase",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^17.3.0",
+    "@angular/core": "^17.3.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false,
+  "description": "Showcasing ratings based on data entered",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SurajMotwani1306/angular-rating-showcase.git"
+  },
+  "keywords": [
+    "angular-rating-showcase",
+    "angular-rating",
+    "rating",
+    "ratings",
+    "stars",
+    "angular",
+    "javascript",
+    "typescript"
+  ],
+  "author": "Suraj Motwani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SurajMotwani1306/angular-rating-showcase/issues"
+  },
+  "homepage": "https://github.com/SurajMotwani1306/angular-rating-showcase#readme"
+}

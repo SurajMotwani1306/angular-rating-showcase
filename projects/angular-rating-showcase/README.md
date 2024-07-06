@@ -6,7 +6,7 @@ Showcasing ratings based on data entered
   <tr>
     <td align="center">
       <img alt="Angular Progress Bar SM"
-        src="./projects/angular-rating-showcase/src/lib/Screenshot/rating.PNG" />
+        src="projects/angular-rating-showcase/src/lib/Screenshot/rating.PNG" />
     </td>
    </tr>
 </table>
