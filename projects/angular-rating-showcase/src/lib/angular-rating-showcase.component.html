@@ -1,6 +1,7 @@
 <div>
     <span *ngFor="let i of iterateArray">
-        <img *ngIf="i==='1'" src="./images/stars/yellow-svg.svg" class="star-size" alt="Filled Star" />
+        <!-- <img *ngIf="i==='1'" src="./images/stars/yellow-svg.svg" class="star-size" alt="Filled Star" /> -->
+        <lib-yellow *ngIf="i==='1'" class="star-size"></lib-yellow>
         <img *ngIf="i==='0'" src="./images/stars/grey-svg.svg" class="star-size" alt="Empty Star" />
         <img *ngIf="i==='half'" src="./images/stars/half-svg.svg" class="star-size" alt="Half Star" />
         <img *ngIf="i==='less'" src="./images/stars/less_than_half-svg.svg" class="star-size" alt="Less Than Star" />

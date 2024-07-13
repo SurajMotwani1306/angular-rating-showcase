@@ -10,7 +10,7 @@
     "build-library": "ng build angular-rating-showcase",
     "pack-library": "cd dist/angular-rating-showcase && npm pack",
     "final": "ng build angular-rating-showcase && cd dist/angular-rating-showcase && npm pack",
-    "publish": "npm publish dist/angular-rating-showcase/angular-rating-showcase-1.0.2.tgz --access public"
+    "publish": "npm publish dist/angular-rating-showcase/angular-rating-showcase-1.0.3.tgz --access public"
   },
   "private": true,
   "dependencies": {
